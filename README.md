@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mamasio
+- 👀 I’m interested in vfx and video games
+- 🌱 I’m currently learning python and writing support tools for packagakes like maya, zbrush, nuke, blender etc.
+- 💞️ I’m looking to collaborate on vfx and animation
+- 📫
